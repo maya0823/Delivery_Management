@@ -29,4 +29,7 @@ This task involves auto-generating routes for each pickup/drop-off combination, 
 ## NFR-Admin/Client/Employee/Carrier-Security_Add-ons
 This task involves 2FA for all user logins and password strength meter during sign-up/
 **Status: Implemented**
+FR-Admin/Employee/Carrier/Client-Login:  Implement Log In page
+This task involves creating a login form with email and password field, including validation and error handling
+Status: Implemented
 
