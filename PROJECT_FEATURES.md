@@ -26,3 +26,7 @@ This task involves auto-generating routes for each pickup/drop-off combination, 
 ## NFR-Admin/Client/Employee/Carrier-Performance_Enhancement: Implement auto refresh of dashboard every 30 seconds and pagination.
 **Status: Implemented**
 
+## NFR-Admin/Client/Employee/Carrier-Security_Add-ons
+This task involves 2FA for all user logins and password strength meter during sign-up/
+**Status: Implemented**
+
