@@ -1,4 +1,7 @@
 # Implemented Features
+FR-Admin/Employee/Carrier/Client-Login:  Implement Log In page
+This task involves creating a login form with email and password field, including validation and error handling
+Status: Implemented
 ## NFR-Admin/Client/Employee-Usability: Implemented user friendly interface.
 This task involves intuitive GUI, consistent navigation, error message clearance, search filters, payment data to pdf or excel, auto-suggesting addresses during shipment creation.
 ## NFR-Admin/Client/Employee-System_Performance : The system performance is now reliable and scalable.
