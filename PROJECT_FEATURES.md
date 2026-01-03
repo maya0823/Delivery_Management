@@ -32,3 +32,11 @@ This task involves auto-generating routes for each pickup/drop-off combination, 
 This task involves clients to view their shipments.
 **Status: Implemented**
 
+## NFR-Client/Employee-Reliability: Implement reliability
+This task involves the system to run without failures.
+**Status: Implemented**
+
+## NFR-Admin/Client/Employee/Carrier-Transparency: Implement transparency.
+This task involves message notifications for shipment status updates and audit logs.
+**Status: Implemented**
+
