@@ -34,5 +34,11 @@ This task involves clients to view their shipments.
 
 ## FR-Admin-Admin_Dashboard: Implement Admin Dashboard page
 This page involves creating a Dashbord for Admin to use with proper error handling.
+## NFR-Client/Employee-Reliability: Implement reliability
+This task involves the system to run without failures.
+**Status: Implemented**
+
+## NFR-Admin/Client/Employee/Carrier-Transparency: Implement transparency.
+This task involves message notifications for shipment status updates and audit logs.
 **Status: Implemented**
 
