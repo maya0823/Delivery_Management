@@ -32,6 +32,8 @@ This task involves auto-generating routes for each pickup/drop-off combination, 
 This task involves clients to view their shipments.
 **Status: Implemented**
 
+## FR-Admin-Admin_Dashboard: Implement Admin Dashboard page
+This page involves creating a Dashbord for Admin to use with proper error handling.
 ## NFR-Client/Employee-Reliability: Implement reliability
 This task involves the system to run without failures.
 **Status: Implemented**
@@ -41,4 +43,6 @@ This task involves message notifications for shipment status updates and audit l
 **Status: Implemented**
 
 This task involves creating a payment module page for admin and employee with proper validation and error handling.
+## FR-Carrier-Carrier_Dashboard: Implement Carrier Dashboard page
+This task involves creating Carrier dashboard with proper validation and error handling.
 
