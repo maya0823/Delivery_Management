@@ -1,4 +1,7 @@
 # Implemented Features
+## NFR-Admin/Client/Employee-System_Performance : The system performance is now reliable and scalable.
+This task involves making the system performance better including system reliability and scalibility.
+**Status : Implemented**
 ## FR-Client-Profile_Management: Implementation of profile management
 This task involves profile management of users with name, email, phone, DOB, gender and address.
 **Status: Implemented
