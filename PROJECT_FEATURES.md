@@ -1,4 +1,6 @@
 # Implemented Features
+## NFR-Admin/Client/Employee-Usability: Implemented user friendly interface.
+This task involves intuitive GUI, consistent navigation, error message clearance, search filters, payment data to pdf or excel, auto-suggesting addresses during shipment creation.
 ## NFR-Admin/Client/Employee-System_Performance : The system performance is now reliable and scalable.
 This task involves making the system performance better including system reliability and scalibility.
 **Status : Implemented**
