@@ -1,4 +1,7 @@
 # Implemented Features
+## FR-Client-Profile_Management: Implementation of profile management
+This task involves profile management of users with name, email, phone, DOB, gender and address.
+**Status: Implemented
 FR-Client-Create_Shipment: Implement Shipment
 This task involves implementing Shipment form using Shipment iD, Payment status, Tracking status, types of good, weight, volume, pick up, drop off
 Status: Implemented shipment form
