@@ -1,4 +1,7 @@
 # Implemented Features
+FR-Admin/Employee/Carrier/Client-Login:  Implement Log In page
+This task involves creating a login form with email and password field, including validation and error handling
+Status: Implemented
 FR/Employee/Employee_Dashboard: Implemented employee dashboard
 This task involves creating a employee dashboard with shipment ID, Client ID, Types of Good, volume, pick up, delivery time for employee to view
 Status: Implemented employee dashboard
